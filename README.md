@@ -20,6 +20,9 @@ I'm a self-taught Full-stack developer who's obsessed with computers ✨
 ![flutter](https://github.com/nxctophile/nxctophile/assets/51683310/74a49ce4-3a89-4843-a793-a15695230a41)
 ![svelte](https://github.com/nxctophile/nxctophile/assets/51683310/f8c55f65-616f-495e-b4c1-51579c8f187f)
 ![react](https://github.com/nxctophile/nxctophile/assets/51683310/cae7b8c2-ca2e-4bb0-ae8b-4d32f721738d)
+![nextjs](https://github.com/nxctophile/nxctophile/assets/51683310/c8579e9a-0b87-4be4-a0cc-a86404249686)
+
+
 
 ![figma](https://github.com/nxctophile/nxctophile/assets/51683310/9acbc565-89f2-43ff-868d-61bc2d9e33ac)
 ![premiere](https://github.com/nxctophile/nxctophile/assets/51683310/f3e15f1d-9d6a-48f8-a448-77ed51926421)
