@@ -4,7 +4,7 @@ I'm a self-taught Full-stack developer who's obsessed with computers ✨
 
 ###  About me
 
-- 😼 MERN and Svelte.js Expert.
+- 😼 MERN and Next.js Expert.
 - 🌷 Currently learning Data Structures and Algorithms in Java.
 - 🎓 Pursuing BCA (II Year) from LNCT University, Bhopal.
 - 📧 You can ask me anything [here](mailto:nxctophile@gmail.com).
@@ -17,7 +17,7 @@ I'm a self-taught Full-stack developer who's obsessed with computers ✨
 ![css3](https://github.com/nxctophile/nxctophile/assets/51683310/91af1d38-dda2-4172-bb38-9101e5fb480f)
 ![html5](https://github.com/nxctophile/nxctophile/assets/51683310/630501f4-b686-4c4c-99c3-2a8d4d1893d9)
 ![android](https://github.com/nxctophile/nxctophile/assets/51683310/669f2758-cd87-4494-98a2-4345e2524c58)
-![flutter](https://github.com/nxctophile/nxctophile/assets/51683310/74a49ce4-3a89-4843-a793-a15695230a41)
+![kotlin](https://github.com/nxctophile/nxctophile/assets/51683310/4dcc79b9-524b-4524-a114-5e1c6842b6fc)
 ![svelte](https://github.com/nxctophile/nxctophile/assets/51683310/f8c55f65-616f-495e-b4c1-51579c8f187f)
 ![react](https://github.com/nxctophile/nxctophile/assets/51683310/cae7b8c2-ca2e-4bb0-ae8b-4d32f721738d)
 ![nextjs](https://github.com/nxctophile/nxctophile/assets/51683310/c8579e9a-0b87-4be4-a0cc-a86404249686)
@@ -30,7 +30,7 @@ I'm a self-taught Full-stack developer who's obsessed with computers ✨
 ![after-effects](https://github.com/nxctophile/nxctophile/assets/51683310/9ddf8d24-2a4b-4fc6-89ae-19defe069c4d)
 ![audition](https://github.com/nxctophile/nxctophile/assets/51683310/ba9d4fe2-b4be-4508-9cfb-942dbb12a771)
 
-![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxctophile&show_icons=true&theme=ambient_gradient)
+![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxctophile&show_icons=true&theme=ambient_gradient&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxctophile&layout=compact&theme=swift)
 
