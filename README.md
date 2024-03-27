@@ -10,10 +10,11 @@ I'm a self-taught Full-stack developer who's obsessed with computers ✨
 - 📧 You can ask me anything [here](mailto:nxctophile@gmail.com).
 
 ### My skillset
-![java](https://github.com/nxctophile/nxctophile/assets/51683310/5c1ad9e6-1b82-48c1-b93b-d8b20045dfe9)
 ![cpp](https://github.com/nxctophile/nxctophile/assets/51683310/d85811e3-d667-40c2-aed2-bf4fad7374fa)
+![java](https://github.com/nxctophile/nxctophile/assets/51683310/5c1ad9e6-1b82-48c1-b93b-d8b20045dfe9)
 ![python](https://github.com/nxctophile/nxctophile/assets/51683310/23f33c66-3ece-4a7b-a90d-184e4d6afd44)
-![js](https://github.com/nxctophile/nxctophile/assets/51683310/3b4bc051-691c-401a-880b-9d602c772d4a)
+![JavaScript](https://github.com/nxctophile/nxctophile/assets/51683310/30c739c8-7949-4acd-b964-32551ecb7dcf)
+![Typescript](https://github.com/nxctophile/nxctophile/assets/51683310/70151956-1a44-4038-a871-c5153c60e485)
 ![css3](https://github.com/nxctophile/nxctophile/assets/51683310/91af1d38-dda2-4172-bb38-9101e5fb480f)
 ![html5](https://github.com/nxctophile/nxctophile/assets/51683310/630501f4-b686-4c4c-99c3-2a8d4d1893d9)
 ![android](https://github.com/nxctophile/nxctophile/assets/51683310/669f2758-cd87-4494-98a2-4345e2524c58)
@@ -22,8 +23,7 @@ I'm a self-taught Full-stack developer who's obsessed with computers ✨
 ![react](https://github.com/nxctophile/nxctophile/assets/51683310/cae7b8c2-ca2e-4bb0-ae8b-4d32f721738d)
 ![nextjs](https://github.com/nxctophile/nxctophile/assets/51683310/c8579e9a-0b87-4be4-a0cc-a86404249686)
 
-
-
+![jetpack-compose](https://github.com/nxctophile/nxctophile/assets/51683310/576b1774-7927-4aab-9e4f-9453d55879bb)
 ![figma](https://github.com/nxctophile/nxctophile/assets/51683310/9acbc565-89f2-43ff-868d-61bc2d9e33ac)
 ![premiere](https://github.com/nxctophile/nxctophile/assets/51683310/f3e15f1d-9d6a-48f8-a448-77ed51926421)
 ![photoshop](https://github.com/nxctophile/nxctophile/assets/51683310/556715d7-0163-4137-a974-5b8230a5bbbd)
