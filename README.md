@@ -5,7 +5,7 @@ I'm a self-taught Full-stack developer who's obsessed with computers ✨
 ###  About me
 
 - 😼 MERN, Next.js and SvelteKit Expert.
-- 🌷 Currently learning Data Structures and Algorithms in Java.
+- 🌷 Currently learning Data Structures and Algorithms in C++ and Rust.
 - 🎓 Pursuing BCA (II Year) from LNCT University, Bhopal.
 - 📧 You can ask me anything [here](mailto:nxctophile@gmail.com).
 
