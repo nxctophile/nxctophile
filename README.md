@@ -35,6 +35,17 @@ I'm a self-taught Full-stack developer who's obsessed with computers ✨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxctophile&layout=compact&theme=swift)
 
+## My major projects on GitLab - ![gitlab](https://github.com/nxctophile/nxctophile/assets/51683310/fa1e4f7d-82ea-455e-a5fc-cfb9b277b320)
+
+- Rhythmie: Music streaming application
+- Speculate: Blogging and documentation application (soon)
+- Wave: Social media and messaging application (soon)
+
+## My minor projects on GitHub - ![github](https://github.com/nxctophile/nxctophile/assets/51683310/2e51f743-f1cf-4371-a83a-0248dc4eb2df)
+
+[![Converter](https://github-readme-stats.vercel.app/api/pin/?username=nxctophile&repo=rhythmie)](https://github.com/nxctophile/rhythmie)
+[![agroBot](https://github-readme-stats.vercel.app/api/pin/?username=nxctophile&repo=agrobot)](https://github.com/nxctophile/agroBot)
+
 ### My socials
 
 [![](https://img.shields.io/badge/Dev.to-3d3d3d?style=flat&logo=dev.to)](https://dev.to/apidboy)
