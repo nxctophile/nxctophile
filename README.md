@@ -1,5 +1,3 @@
-![Name](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00baff,100:0055b6&text=Hi,%20I'm%20Samarth!&stroke=333&strokeWidth=2&animation=fadeIn&textBg=false&fontColor=eee)
-
 I'm a self-taught Full-stack developer who's obsessed with computers ✨
 
 ###  About me
