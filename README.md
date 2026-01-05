@@ -30,10 +30,6 @@ I'm a self-taught Full-stack developer who's obsessed with computers ✨
 ![after-effects](https://github.com/nxctophile/nxctophile/assets/51683310/9ddf8d24-2a4b-4fc6-89ae-19defe069c4d)
 ![audition](https://github.com/nxctophile/nxctophile/assets/51683310/ba9d4fe2-b4be-4508-9cfb-942dbb12a771)
 
-![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxctophile&show_icons=true&theme=ambient_gradient&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxctophile&layout=compact&theme=swift)
-
 ### My socials
 
 [![](https://img.shields.io/badge/Dev.to-3d3d3d?style=flat&logo=dev.to)](https://dev.to/apidboy)
