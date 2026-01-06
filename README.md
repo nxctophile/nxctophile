@@ -1,5 +1,3 @@
-I'm a self-taught Full-stack developer who's obsessed with computers ✨
-
 ###  About me
 
 - 💼 CTO and Co-founder of Destination Drives and Technical Head at TheBasicsCompany.
