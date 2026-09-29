@@ -1,10 +1,10 @@
 ###  About me
 
-- 💼 CTO and Co-founder of Destination Drives and Technical Head at TheBasicsCompany.
-- 😼 MERN, Next.js and SvelteKit Expert.
+- 💼 Technical Head at Anaahatas Wellness Pvt. Ltd. and CTO & Co-founder of Destination Drives.
+- 😼 Full Stack Developer & AI/ML Expert.
 - 🌷 Currently learning Data Structures and Algorithms in C++ and Rust.
-- 🎓 BCA '25 from LNCT University, Bhopal.
-- 📧 You can ask me anything [here](mailto:nxctophile@gmail.com).
+- 🎓 BCA Graduate ('25) from LNCT University, Bhopal.
+- 📧 Click [here](mailto:nxctophile@gmail.com) to ask me anything.
 
 ### My skillset
 ![rust](https://github.com/nxctophile/nxctophile/assets/51683310/63db4c2a-7037-4da2-83fe-b8195aea6e09)
